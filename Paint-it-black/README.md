@@ -7,4 +7,4 @@ Link naar de demo: [http://29853.hosts2.ma-cloud.nl/bewijzenmap-leerjaar2/flex/P
 
 
 
-![screenshot](https://media.discordapp.net/attachments/804419466053812235/806172968073297990/unknown.png?width=716&height=348)
+![screenshot](https://cdn.discordapp.com/attachments/804419466053812235/806172968073297990/unknown.png)
